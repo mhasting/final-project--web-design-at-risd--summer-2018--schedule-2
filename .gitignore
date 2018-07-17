@@ -6,3 +6,7 @@
 !.gitignore
 !*.html
 !README.md
+!*.jpg
+!*.svg
+!*.gif
+!*.png

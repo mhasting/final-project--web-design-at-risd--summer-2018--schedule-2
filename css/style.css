@@ -1,6 +1,18 @@
+/* to be included in all pages */
+
 #header {
    padding-left: 50px;
    padding-top: 20px;
    font-family: 'Libre Barcode 128 Text', cursive;
    font-size: 10rem;
 }
+
+#ghost-icon {
+   padding-left: 50px;
+   padding-top: 50px;
+}
+a { text-decoration: none; }
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
