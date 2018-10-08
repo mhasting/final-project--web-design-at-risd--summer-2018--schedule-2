@@ -60,6 +60,47 @@ a:focus { text-decoration: none; }
    font-size: 13px;
    line-height: normal;
 }
+
+#broadcaster-piece {
+   position: absolute;
+   left:300px;
+   top:144px;
+   right: 150px;
+   font-family: monospace;
+   font-weight: 500;
+   font-size: 13px;
+   line-height: normal;
+}
+
+#pb-video {
+   position: absolute;
+   right: 200px;
+   top:144px;
+}
 .nav ul a:hover{
 	color:red;
+}
+
+#bio-content {
+
+   position: absolute;
+   left:500px;
+   top:144px;
+   font-family: monospace;
+   font-weight: 500;
+   font-size: 13px;
+   line-height: normal;
+}
+
+#bio-image {
+   position: absolute;
+   left:250px;
+   top:170px;
+}
+
+#satellite-video {
+   position: absolute;
+   left:250px;
+   top:144px;
+
 }
