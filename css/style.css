@@ -229,12 +229,19 @@ a:focus { text-decoration: none; }
 #s3:target ~ .slider{ transform: translateX(-200%); -webkit-transform: translateX(-200%); }
 #s4:target ~ .slider{ transform: translateX(-300%); -webkit-transform: translateX(-300%); }
 
- #map {
+#map-pic1 {
    position: absolute;
-   left:300px;
-   top:170px;
+   top:190px;
+   left: 300px;
 }
 
-.map-pics > img:hover {
-   width: 60%;
+#map-pic2 {
+   position: absolute;
+   top: 550px;
+   left: 300px;
+}
+#map-pic3 {
+   position: absolute;
+   top: 910px;
+   left: 300px;
 }
